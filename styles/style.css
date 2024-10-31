@@ -232,7 +232,7 @@ a:hover {
  display: flex;
  flex-direction: column;
  border-radius: 20px;
- background-color: rgb(232, 226, 250);
+ background-color: #efe6c5;
  margin: 20px 0;
 }
 
@@ -286,6 +286,7 @@ a:hover {
 .button.fb-blue {
  background-color: rgb(0, 100, 224);
  color: white;
+ font-weight: 700;
 }
 
 .button:hover {
